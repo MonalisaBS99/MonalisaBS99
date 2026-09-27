@@ -8,6 +8,17 @@
   <li>⚡ Love working with low-level programming, computer architecture, and hardware-software interaction.</li>
   <li>🎯 Preparing for <b>Software Engineering & Embedded Software Internships</b>.</li>
 </ul>
+<h2>🌱 Interests</h2>
+
+<ul>
+  <li>🤖 Artificial Intelligence & Machine Learning</li>
+  <li>💻 Software Engineering</li>
+  <li>🧩 Problem Solving</li>
+  <li>🏆 Competitive Programming</li>
+  <li>🔧 Embedded Systems & Firmware</li>
+  <li>🧠 Data Structures & Algorithms</li>
+  <li>⚙️ Low-Level Programming & Computer Architecture</li>
+</ul>
 </ul><hr><h2>🛠️ Tech Stack & Technical Skills</h2><h3>💻 Programming Languages</h3><p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
