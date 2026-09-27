@@ -1,66 +1,47 @@
 # Hi 👋, I'm Monalisa!
 ### A Passionate Software Engineer & Embedded Systems Enthusiast 🚀
 
-<p align="left">
-<img src="https://komarev.com" alt="Monalisa8599 Profile Views" />
-</p>
+![Profile Views](https://komarev.com)
 
 ## 📌 About Me
 - 🎓 **Computer Science & Engineering Student** 
 - 💡 Deeply interested in the intersection of **Software Engineering** and **Embedded Systems**.
 - 🛠️ Currently strengthening my core problem-solving skills via **Striver's A-to-Z DSA Sheet** in C++.
 - ⚡ Love working on low-level programming, computer architecture, and hardware-software co-design.
+- 🎯 **Targeting Embedded Software / Firmware Engineering Internships for Summer 2027.**
 
 ---
 
 ## 🛠️ Tech Stack & Technical Skills
 
 ### 💻 Programming Languages & Core CS
-<p align="left">
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="SQL" />
-</p>
+![C++](https://shields.io) ![C](https://shields.io) ![Java](https://shields.io) ![SQL](https://shields.io)
 
 * **Core Theory:** Data Structures & Algorithms (DSA), Bit Manipulation, Database Management Systems (DBMS), Discrete Mathematical Structures (DMS), Software Engineering.
 * **Mathematics:** Engineering Mathematics.
 
 ### 🔌 Embedded Systems & Hardware Architecture
-<p align="left">
-  <img src="https://shields.io" alt="Assembly" />
-  <img src="https://shields.io" alt="AVR Microcontroller" />
-</p>
+![Assembly](https://shields.io) ![AVR Microcontroller](https://shields.io)
 
 * **Computer Organization (CO):** In-depth understanding of Computer Architecture, CPU design, and memory hierarchies.
 * **Low-Level Development:** Assembly language programming for **AVR Microcontrollers**.
-* **Digital Electronics:** Circuit design using IC Counters, Flip-Flops (SR, JK, D, T), and combinational logic.
+* **Digital Electronics:** Circuit design using Sequential Logic Circuits.
+
+---
+
+## 🛠️ Hardware & Digital Electronics Labs
+* **Digital Logic Design:** Successfully wired, tested, and analyzed sequential logic hardware using **JK, SR, D, and T Flip-Flops**.
+* *(More hardware and AVR microcontroller projects will be added here as I build them!)*
 
 ---
 
 ## 📊 Coding Profiles & Analytics
 
-<p align="left">
-  <a href="https://leetcode.com" target="_blank">
-    <img src="https://shields.io" alt="LeetCode" />
-  </a>
-  <a href="https://geeksforgeeks.org" target="_blank">
-    <img src="https://shields.io" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://codechef.com" target="_blank">
-    <img src="https://shields.io" alt="CodeChef" />
-  </a>
-  <a href="https://codeforces.com" target="_blank">
-    <img src="https://shields.io" alt="Codeforces" />
-  </a>
-  <a href="https://hackerrank.com" target="_blank">
-    <img src="https://shields.io" alt="HackerRank" />
-  </a>
-</p>
+[![LeetCode](https://shields.io)](https://leetcode.com) [![GeeksforGeeks](https://shields.io)](https://geeksforgeeks.org) [![CodeChef](https://shields.io)](https://codechef.com) [![Codeforces](https://shields.io)](https://codeforces.com) [![HackerRank](https://shields.io)](https://hackerrank.com)
 
 <p align="left">
-  <img src="https://vercel.app" alt="Monalisa8599 GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="Monalisa8599 GitHub Streak" width="48%" />
+  <img src="https://vercel.app" alt="monalisaBS99 GitHub Stats" width="48%" />
+  <img src="https://herokuapp.com" alt="monalisaBS99 GitHub Streak" width="48%" />
 </p>
 
 ---
@@ -73,9 +54,7 @@
 ## 📬 Contact Me
 Feel free to reach out if you want to collaborate on projects, talk about hardware, or discuss software engineering!
 
-<p align="left">
-  <a href="mailto:amaravathimonalisa@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-</p>
+[![Email](https://shields.io)](mailto:amaravathimonalisa@gmail.com)
 
 <p align="center">
 ⭐ Feel free to explore my repositories and drop a star if you find my work useful! ⭐
