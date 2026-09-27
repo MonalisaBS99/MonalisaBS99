@@ -21,7 +21,9 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p><h3>🛠️ Tools & Platforms</h3><p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="45" alt="VS Code, Git, GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
 </p><h3>🧠 Core Computer Science</h3><ul>
   <li>Data Structures & Algorithms</li>
   <li>Problem Solving</li>
@@ -56,11 +58,15 @@
     <img src="https://img.shields.io/badge/Skillbout-Profile-6C63FF?style=for-the-badge" alt="Skillbout"/>
   </a>
 </p><hr><h2>📈 GitHub Statistics</h2><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonalisaBS99&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MonalisaBS99&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Monalisa's GitHub Stats"
+  />
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MonalisaBS99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonalisaBS99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=MonalisaBS99&theme=tokyonight&hide_border=true"
+    alt="Monalisa's GitHub Streak"
+  />
 </p><hr><h2>📂 Featured Repository</h2><p>
   🚀 <b>DSA Monalisa Solutions</b>
 </p><p>
