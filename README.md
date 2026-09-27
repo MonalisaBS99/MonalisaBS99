@@ -1,11 +1,13 @@
 <h1 align="left">Hi 👋, I'm Monalisa!</h1><h3 align="left">A Passionate Software Engineer & Embedded Systems Enthusiast 🚀</h3><p align="left">
   <img src="https://komarev.com/ghpvc/?username=MonalisaBS99&label=Profile%20Views&style=flat" alt="Profile Views"/>
 </p><h2>📌 About Me</h2><ul>
-  <li>🎓 <b>Computer Science & Engineering Student</b></li>
+  <li>🎓 <b>3rd Year Computer Science & Engineering Student</b></li>
+  <li>📊 <b>CGPA: 9.77</b></li>
   <li>💡 Deeply interested in the intersection of <b>Software Engineering</b> and <b>Embedded Systems</b>.</li>
   <li>🛠️ Currently strengthening my core problem-solving skills via <b>Striver's A-to-Z DSA Sheet</b> in C++.</li>
   <li>⚡ Love working with low-level programming, computer architecture, and hardware-software interaction.</li>
   <li>🎯 Preparing for <b>Software Engineering & Embedded Software Internships</b>.</li>
+</ul>
 </ul><hr><h2>🛠️ Tech Stack & Technical Skills</h2><h3>💻 Programming Languages</h3><p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
