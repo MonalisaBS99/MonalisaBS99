@@ -1,16 +1,13 @@
 <h1 align="left">Hi 👋, I'm Monalisa B S!</h1><h3 align="left">A Passionate Software Engineer & Embedded Systems Enthusiast 🚀</h3><p align="left">
   <img src="https://komarev.com/ghpvc/?username=MonalisaBS99&label=Profile%20Views&style=flat" alt="Profile Views"/>
-</p><h2>📌 About Me</h2><ul>
+</p><hr><h2>📌 About Me</h2><ul>
   <li>🎓 <b>3rd Year Computer Science & Engineering Student</b></li>
   <li>📊 <b>CGPA: 9.77</b></li>
   <li>💡 Deeply interested in the intersection of <b>Software Engineering</b> and <b>Embedded Systems</b>.</li>
   <li>🛠️ Currently strengthening my core problem-solving skills via <b>Striver's A-to-Z DSA Sheet</b> in C++.</li>
   <li>⚡ Love working with low-level programming, computer architecture, and hardware-software interaction.</li>
   <li>🎯 Preparing for <b>Software Engineering & Embedded Software Internships</b>.</li>
-</ul>
-<h2>🌱 Interests</h2>
-
-<ul>
+</ul><h2>🌱 Interests</h2><ul>
   <li>🤖 Artificial Intelligence & Machine Learning</li>
   <li>💻 Software Engineering</li>
   <li>🧩 Problem Solving</li>
@@ -18,27 +15,13 @@
   <li>🔧 Embedded Systems & Firmware</li>
   <li>🧠 Data Structures & Algorithms</li>
   <li>⚙️ Low-Level Programming & Computer Architecture</li>
-</ul>
 </ul><hr><h2>🛠️ Tech Stack & Technical Skills</h2><h3>💻 Programming Languages</h3><p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <p align="left">
-  <b>Tools & Platforms:</b><br><br>
-
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
-  </a>
-
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
-  </a>
-
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
-  </a>
-</p>
+</p><h3>🛠️ Tools & Platforms</h3><p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="45" alt="VS Code, Git, GitHub"/>
 </p><h3>🧠 Core Computer Science</h3><ul>
   <li>Data Structures & Algorithms</li>
   <li>Problem Solving</li>
@@ -67,18 +50,17 @@
     <img src="https://img.shields.io/badge/CodeChef-monalisabs-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>  <a href="https://www.hackerrank.com/profile/4PS24CS115">
     <img src="https://img.shields.io/badge/HackerRank-4PS24CS115-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>  <a href="https://takeuforward.org/profile/monalisabs">
+    <img src="https://img.shields.io/badge/Take_U_Forward-Striver's_A2Z-orange?style=for-the-badge" alt="Take U Forward"/>
+  </a>  <a href="https://skillboutvisualize.web.app/u/CdtkQO5jPng6U5cPHkThgYgxfNR2">
+    <img src="https://img.shields.io/badge/Skillbout-Profile-6C63FF?style=for-the-badge" alt="Skillbout"/>
   </a>
-  <a href="https://takeuforward.org/profile/monalisabs">
-  <img src="https://img.shields.io/badge/Take_U_Forward-Striver's_A2Z-orange?style=for-the-badge">
-</a>
-  <a href="https://skillboutvisualize.web.app/u/CdtkQO5jPng6U5cPHkThgYgxfNR2">
-  <img src="https://img.shields.io/badge/Skillbout-Profile-6C63FF?style=for-the-badge">
-</a>
 </p><hr><h2>📈 GitHub Statistics</h2><p align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=MonalisaBS99&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p><p align="center">
   <img src="https://streak-stats.demolab.com/?user=MonalisaBS99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p><p align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonalisaBS99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p><hr><h2>📂 Featured Repository</h2><p>
   🚀 <b>DSA Monalisa Solutions</b>
 </p><p>
