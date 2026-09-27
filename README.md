@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/HackerRank-4PS24CS115-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
   </a>
 </p><hr><h2>📈 GitHub Statistics</h2><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonalisaBS99&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MonalisaBS99&show_icons=true&theme=tokyonight&hide_border=true" />
 </p><p align="center">
   <img src="https://streak-stats.demolab.com/?user=MonalisaBS99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p><p align="center">
