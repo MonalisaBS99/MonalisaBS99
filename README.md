@@ -42,6 +42,9 @@
   </a>  <a href="https://www.hackerrank.com/profile/4PS24CS115">
     <img src="https://img.shields.io/badge/HackerRank-4PS24CS115-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
   </a>
+  <a href="https://takeuforward.org/profile/monalisabs">
+  <img src="https://img.shields.io/badge/Take_U_Forward-Striver's_A2Z-orange?style=for-the-badge">
+</a>
 </p><hr><h2>📈 GitHub Statistics</h2><p align="center">
   
   <img src="https://streak-stats.demolab.com/?user=MonalisaBS99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
