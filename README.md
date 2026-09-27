@@ -59,7 +59,7 @@
   </a>
 </p><hr><h2>📈 GitHub Statistics</h2><p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MonalisaBS99&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=MonalisaBS99&theme=tokyonight&hide_border=true"
    
   />
 </p><p align="center">
