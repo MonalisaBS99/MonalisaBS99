@@ -45,6 +45,9 @@
   <a href="https://takeuforward.org/profile/monalisabs">
   <img src="https://img.shields.io/badge/Take_U_Forward-Striver's_A2Z-orange?style=for-the-badge">
 </a>
+  <a href="https://skillboutvisualize.web.app/u/CdtkQO5jPng6U5cPHkThgYgxfNR2">
+  <img src="https://img.shields.io/badge/Skillbout-Profile-6C63FF?style=for-the-badge">
+</a>
 </p><hr><h2>📈 GitHub Statistics</h2><p align="center">
   
   <img src="https://streak-stats.demolab.com/?user=MonalisaBS99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
