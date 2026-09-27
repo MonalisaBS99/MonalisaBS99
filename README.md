@@ -59,13 +59,13 @@
   </a>
 </p><hr><h2>📈 GitHub Statistics</h2><p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MonalisaBS99&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=MonalisaBS99"
    
   />
 </p><p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=MonalisaBS99&theme=tokyonight&hide_border=true"
-    alt="Monalisa's GitHub Streak"
+  
   />
 </p><hr><h2>📂 Featured Repository</h2><p>
   🚀 <b>DSA Monalisa Solutions</b>
