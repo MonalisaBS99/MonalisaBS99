@@ -57,16 +57,16 @@
   </a>  <a href="https://skillboutvisualize.web.app/u/CdtkQO5jPng6U5cPHkThgYgxfNR2">
     <img src="https://img.shields.io/badge/Skillbout-Profile-6C63FF?style=for-the-badge" alt="Skillbout"/>
   </a>
-</p><hr><h2>📈 GitHub Statistics</h2><p align="center">
+<hr>
+
+<h2>📈 GitHub Activity</h2>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MonalisaBS99"
-   
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MonalisaBS99"
+    alt="GitHub Streak"
   />
-</p><p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=MonalisaBS99&theme=tokyonight&hide_border=true"
-  
-  />
+</p>
 </p><hr><h2>📂 Featured Repository</h2><p>
   🚀 <b>DSA Monalisa Solutions</b>
 </p><p>
