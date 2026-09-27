@@ -24,6 +24,21 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <p align="left">
+  <b>Tools & Platforms:</b><br><br>
+
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
+  </a>
+
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
+  </a>
+
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+  </a>
+</p>
 </p><h3>🧠 Core Computer Science</h3><ul>
   <li>Data Structures & Algorithms</li>
   <li>Problem Solving</li>
