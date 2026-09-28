@@ -59,6 +59,7 @@
   </a>
 <hr>
 
+
 <h2>📈 GitHub Activity</h2>
 
 <p align="center">
@@ -75,6 +76,9 @@
   <a href="mailto:amaravathimonalisa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://x.com/MonalisaBS99" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
 </p><p align="center">
   ⭐ Feel free to explore my repositories and follow my journey! ⭐
 </p>
