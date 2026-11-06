@@ -64,11 +64,16 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.demolab.com/?user=MonalisaBS99"
+    src="https://streak-stats.demolab.com/?user=MonalisaBS99"
     alt="GitHub Streak"
   />
 </p>
-</p><hr><h2>📂 Featured Repository</h2><p>
+
+<hr>
+
+<h2>📂 Featured Repository</h2>
+
+<p>
   🚀 <b>DSA Monalisa Solutions</b>
 </p><p>
   A structured collection of my <b>C++ DSA solutions</b> following <b>Striver's A-to-Z DSA Sheet</b>.
