@@ -64,7 +64,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MonalisaBS99"
+    src="https://github-readme-streak-stats.demolab.com/?user=MonalisaBS99"
     alt="GitHub Streak"
   />
 </p>
